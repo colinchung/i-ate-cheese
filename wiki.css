@@ -1,0 +1,37 @@
+body{
+font-family: 'Zen Dots', cursive;
+}
+
+.logo{width:100px;}
+
+.sidebar{
+  float:left;
+ width: 9em;
+ padding:3px 1.5em 10px 1.3em;
+  position:absolute;
+}
+
+.mainsection{
+  margin:0 0 0 15em;
+}
+
+.article{
+  padding:1.25em 1.5em 1.5em 1.5em;
+  border-left:1px solid black
+  background-color:red
+  line-height:1.6;
+  frount-size:0.876em;
+  border-top:1px solid black;
+  border-bottom:1px solid black;
+}
+.mainsectionimage{
+  border:1px solid #c8ccd1;
+  padding:3px;
+  float:right;
+  background: white;
+  font-size:50%;
+  overflow:hidden;
+  line-height:0.1em;
+  margin:0 0 5px 15px;
+  text-align:left;
+}
